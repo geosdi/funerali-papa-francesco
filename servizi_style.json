@@ -1,0 +1,64 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "tipo",
+      "properties": [
+        {
+          "property": "icon",
+          "values": [
+            {
+              "key": "MAXISCHERMO",
+              "value": "url(./assets/pope/screen.png)",
+              "options": {
+                "iconSize": [
+                  24,
+                  24
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "propertyKey": "tipo",
+      "properties": [
+        {
+          "property": "icon",
+          "values": [
+            {
+              "key": "BAGNI",
+              "value": "url(./assets/pope/restroom.png)",
+              "options": {
+                "iconSize": [
+                  24,
+                  24
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "propertyKey": "tipo",
+      "properties": [
+        {
+          "property": "icon",
+          "values": [
+            {
+              "key": "PMA",
+              "value": "url(./assets/pope/pma.png)",
+              "options": {
+                "iconSize": [
+                  24,
+                  24
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

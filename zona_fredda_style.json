@@ -1,8 +1,45 @@
+
 {
   "style_properties": [
     {
       "propertyKey": "*",
       "properties": [
+        {
+          "property": "fillColor",
+          "values": [
+            {
+              "key": "*",
+              "value": "#e3ec6d"
+            }
+          ]
+        },
+        {
+          "property": "weight",
+          "values": [
+            {
+              "key": "*",
+              "value": "1.3"
+            }
+          ]
+        },
+        {
+          "property": "opacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "fillOpacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "0"
+            }
+          ]
+        },
         {
           "property": "color",
           "values": [

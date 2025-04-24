@@ -11,12 +11,23 @@
     {
       "key": 1,
       "label": "Servizi"
+    },
+    {
+      "key": 2,
+      "label": "Zona Calda"
+    },
+    {
+      "key": 3,
+      "label": "Zona Fredda"
     }
+    
   ],
   "today": {
     "topo_json": [
       "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/gate.geojson",
-      "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/servizi.geojson"
+      "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/servizi.geojson",
+      "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/zona_calda_sanpietro.geojson",
+      "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/zona_fredda_cinturazione.geojson"
     ]
   },
   "extra_layers": [

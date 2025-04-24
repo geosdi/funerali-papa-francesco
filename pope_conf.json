@@ -42,7 +42,8 @@
   ],
   "style": [
     "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/gate_style.json",
-    "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/servizi_style.json"
+    "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/servizi_style.json",
+    "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/zona_calda_style.json"
   ],
   "leaflet": {
     "tooltip": [

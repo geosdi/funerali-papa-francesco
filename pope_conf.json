@@ -1,0 +1,60 @@
+{
+  "global_legend": "",
+  "name": "Funerali Papa Francesco",
+  "strategy_features": "not_intersect",
+  "hide_popup": true,
+  "layers": [
+    {
+      "key": 0,
+      "label": "Accessi"
+    },
+    {
+      "key": 1,
+      "label": "Servizi"
+    }
+  ],
+  "today": {
+    "topo_json": [
+      "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/gate.geojson",
+      "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/servizi.geojson"
+    ]
+  },
+  "extra_layers": [
+    {
+      "file": "./assets/pope/accessi.geojson",
+      "key": "accessi"
+    },
+    {
+      "file": "./assets/pope/percorsi.geojson",
+      "key": "percorsi"
+    }
+  ],
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/gate_style.json",
+    "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/servizi_style.json"
+  ],
+  "leaflet": {
+    "tooltip": [
+      {
+        "key": 0,
+        "permanent": true,
+        "className": "tooltip-yellow",
+        "properties": [
+          {
+            "key": "nome"
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "permanent": false,
+        "className": "tooltip-yellow",
+        "properties": [
+          {
+            "key": "tipo"
+          }
+        ]
+      }
+    ]
+  }
+}

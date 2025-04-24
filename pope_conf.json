@@ -48,7 +48,6 @@
       {
         "key": 1,
         "permanent": false,
-        "className": "tooltip-yellow",
         "properties": [
           {
             "key": "tipo"

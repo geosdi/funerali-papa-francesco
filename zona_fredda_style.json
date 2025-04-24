@@ -1,0 +1,18 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "*",
+      "properties": [
+        {
+          "property": "color",
+          "values": [
+            {
+              "key": "*",
+              "value": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -16,11 +16,12 @@
     {
       "key": 2,
       "label": "Zona 1",
-      "visible": false	
+      "visible": true	
     },
     {
       "key": 3,
-      "label": "Zona 2"
+      "label": "Zona 2",
+       "visible": false
     }
     
   ],

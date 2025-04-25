@@ -3,7 +3,7 @@
   "name": "Funerali Papa Francesco",
   "strategy_features": "not_intersect",
   "hide_popup": true,
-  "external_logo": "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/roma-pc-giubileo_ridotto.png",
+  "external_logo": "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/roma-pc-giubileo_ridotto_.png",
   "layers": [
     {
       "key": 0,

@@ -29,13 +29,14 @@
 { "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.467807471053, 41.903662387618837 ] } },
 { "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.467745668413672, 41.903410678687123 ] } },
 { "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.467684154154945, 41.903156885185872 ] } },
-{ "type": "Feature", "properties": { "tipo": "PMA" }, "geometry": { "type": "Point", "coordinates": [ 12.464347666660556, 41.902543449288636 ] } },
+{ "type": "Feature", "properties": { "tipo": "PMA" }, "geometry": { "type": "Point", "coordinates": [ 12.464823093542972, 41.902433696831842 ] } },
 { "type": "Feature", "properties": { "tipo": "PMA" }, "geometry": { "type": "Point", "coordinates": [ 12.461962458867234, 41.902176842496587 ] } },
 { "type": "Feature", "properties": { "tipo": "PMA" }, "geometry": { "type": "Point", "coordinates": [ 12.460949703936299, 41.902503139446402 ] } },
-{ "type": "Feature", "properties": { "tipo": "PMA" }, "geometry": { "type": "Point", "coordinates": [ 12.458362521374935, 41.901763924232775 ] } },
-{ "type": "Feature", "properties": { "tipo": "PMA" }, "geometry": { "type": "Point", "coordinates": [ 12.458088145166704, 41.903010787469626 ] } },
-{ "type": "Feature", "properties": { "tipo": "PMA" }, "geometry": { "type": "Point", "coordinates": [ 12.45778294850691, 41.906396712269895 ] } },
+{ "type": "Feature", "properties": { "tipo": "PMA" }, "geometry": { "type": "Point", "coordinates": [ 12.458876865098595, 41.901991680217712 ] } },
+{ "type": "Feature", "properties": { "tipo": "PMA" }, "geometry": { "type": "Point", "coordinates": [ 12.458276676769518, 41.903221513052422 ] } },
+{ "type": "Feature", "properties": { "tipo": "PMA" }, "geometry": { "type": "Point", "coordinates": [ 12.456805702362965, 41.906462533494242 ] } },
 { "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.457314565018912, 41.903307373848136 ] } },
-{ "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.458534310969364, 41.90471273747135 ] } }
+{ "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.458534310969364, 41.90471273747135 ] } },
+{ "type": "Feature", "properties": { "tipo": "PMA" }, "geometry": { "type": "Point", "coordinates": [ 12.467224168896294, 41.90276047681067 ] } }
 ]
 }

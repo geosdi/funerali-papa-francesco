@@ -32,11 +32,11 @@
   },
   "extra_layers": [
     {
-      "file": "./assets/pope/accessi.geojson",
+      "file": "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/accessi.geojson",
       "key": "accessi"
     },
     {
-      "file": "./assets/pope/percorsi.geojson",
+      "file": "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/percorsi.geojson",
       "key": "percorsi"
     }
   ],

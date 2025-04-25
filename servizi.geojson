@@ -37,6 +37,11 @@
 { "type": "Feature", "properties": { "tipo": "PMA" }, "geometry": { "type": "Point", "coordinates": [ 12.456805702362965, 41.906462533494242 ] } },
 { "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.457314565018912, 41.903307373848136 ] } },
 { "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.458534310969364, 41.90471273747135 ] } },
-{ "type": "Feature", "properties": { "tipo": "PMA" }, "geometry": { "type": "Point", "coordinates": [ 12.467224168896294, 41.90276047681067 ] } }
+{ "type": "Feature", "properties": { "tipo": "PMA" }, "geometry": { "type": "Point", "coordinates": [ 12.467224168896294, 41.90276047681067 ] } },
+{ "type": "Feature", "properties": { "tipo": "H2O" }, "geometry": { "type": "Point", "coordinates": [ 12.447553315921267, 41.907548005765477 ] } },
+{ "type": "Feature", "properties": { "tipo": "H2O" }, "geometry": { "type": "Point", "coordinates": [ 12.458403231041315, 41.90348389747215 ] } },
+{ "type": "Feature", "properties": { "tipo": "H2O" }, "geometry": { "type": "Point", "coordinates": [ 12.458221282137801, 41.909353098374957 ] } },
+{ "type": "Feature", "properties": { "tipo": "H2O" }, "geometry": { "type": "Point", "coordinates": [ 12.454850397521971, 41.896535060588533 ] } },
+{ "type": "Feature", "properties": { "tipo": "H2O" }, "geometry": { "type": "Point", "coordinates": [ 12.465236191329922, 41.902638161280258 ] } }
 ]
 }

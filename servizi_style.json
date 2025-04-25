@@ -59,6 +59,26 @@
           ]
         }
       ]
+    },
+    {
+      "propertyKey": "tipo",
+      "properties": [
+        {
+          "property": "icon",
+          "values": [
+            {
+              "key": "H2O",
+              "value": "url(https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/icona_H2O.png)",
+              "options": {
+                "iconSize": [
+                  24,
+                  24
+                ]
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }

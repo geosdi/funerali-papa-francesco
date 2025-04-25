@@ -15,7 +15,8 @@
     },
     {
       "key": 2,
-      "label": "Zona 1"
+      "label": "Zona 1",
+      "visible": false	
     },
     {
       "key": 3,

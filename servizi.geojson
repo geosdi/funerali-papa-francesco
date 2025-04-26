@@ -42,6 +42,25 @@
 { "type": "Feature", "properties": { "tipo": "H2O" }, "geometry": { "type": "Point", "coordinates": [ 12.458403231041315, 41.90348389747215 ] } },
 { "type": "Feature", "properties": { "tipo": "H2O" }, "geometry": { "type": "Point", "coordinates": [ 12.458221282137801, 41.909353098374957 ] } },
 { "type": "Feature", "properties": { "tipo": "H2O" }, "geometry": { "type": "Point", "coordinates": [ 12.454850397521971, 41.896535060588533 ] } },
-{ "type": "Feature", "properties": { "tipo": "H2O" }, "geometry": { "type": "Point", "coordinates": [ 12.465236191329922, 41.902638161280258 ] } }
+{ "type": "Feature", "properties": { "tipo": "H2O" }, "geometry": { "type": "Point", "coordinates": [ 12.465236191329922, 41.902638161280258 ] } },
+{ "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.451123333018446, 41.89980484830371 ] } },
+{ "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.452208102490898, 41.898760642698576 ] } },
+{ "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.451701883427518, 41.898881154038513 ] } },
+{ "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.451667075834761, 41.898954987063796 ] } },
+{ "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.451697061854199, 41.89921598002136 ] } },
+{ "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.451329470624149, 41.899430047407492 ] } },
+{ "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.4692246906039, 41.897950166347279 ] } },
+{ "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.477269533356424, 41.895624534123684 ] } },
+{ "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.486623831270908, 41.893851450229377 ] } },
+{ "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.498238222392892, 41.889553888850649 ] } },
+{ "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.496587281690411, 41.898688439163095 ] } },
+{ "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.496971507687975, 41.898479086736238 ] } },
+{ "type": "Feature", "properties": { "tipo": "MAXISCHERMO" }, "geometry": { "type": "Point", "coordinates": [ 12.498732726410312, 41.897112755550978 ] } },
+{ "type": "Feature", "properties": { "tipo": "MAXISCHERMO" }, "geometry": { "type": "Point", "coordinates": [ 12.49916787959828, 41.89752492813453 ] } },
+{ "type": "Feature", "properties": { "tipo": "ACCESSO" }, "geometry": { "type": "Point", "coordinates": [ 12.496014952229864, 41.897376578089251 ] } },
+{ "type": "Feature", "properties": { "tipo": "ACCESSO" }, "geometry": { "type": "Point", "coordinates": [ 12.496346876326488, 41.898826009000402 ] } },
+{ "type": "Feature", "properties": { "tipo": "ACCESSO" }, "geometry": { "type": "Point", "coordinates": [ 12.498059991909647, 41.899207636521943 ] } },
+{ "type": "Feature", "properties": { "tipo": "ACCESSO" }, "geometry": { "type": "Point", "coordinates": [ 12.49983051677985, 41.898136598832586 ] } },
+{ "type": "Feature", "properties": { "tipo": "ACCESSO" }, "geometry": { "type": "Point", "coordinates": [ 12.500592640263056, 41.896622351500362 ] } }
 ]
 }

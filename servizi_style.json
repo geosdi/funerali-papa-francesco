@@ -79,6 +79,69 @@
           ]
         }
       ]
+    },
+    {
+  "style_properties": [
+    {
+      "propertyKey": "tipo",
+      "properties": [
+        {
+          "property": "fillColor",
+          "values": [
+            {
+              "key": "ACCESSO",
+              "value": "#ff8c00"
+            }
+          ]
+        },
+        {
+          "property": "radius",
+          "values": [
+            {
+              "key": "ACCESSO",
+              "value": "6"
+            }
+          ]
+        },
+        {
+          "property": "weight",
+          "values": [
+            {
+              "key": "ACCESSO",
+              "value": "0.5"
+            }
+          ]
+        },
+        {
+          "property": "opacity",
+          "values": [
+            {
+              "key": "ACCESSO",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "fillOpacity",
+          "values": [
+            {
+              "key": "ACCESSO",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "color",
+          "values": [
+            {
+              "key": "ACCESSO",
+              "value": "black"
+            }
+          ]
+        }
+      ]
     }
+  ]
+}
   ]
 }

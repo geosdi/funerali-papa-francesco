@@ -61,6 +61,9 @@
 { "type": "Feature", "properties": { "tipo": "ACCESSO" }, "geometry": { "type": "Point", "coordinates": [ 12.496346876326488, 41.898826009000402 ] } },
 { "type": "Feature", "properties": { "tipo": "ACCESSO" }, "geometry": { "type": "Point", "coordinates": [ 12.498059991909647, 41.899207636521943 ] } },
 { "type": "Feature", "properties": { "tipo": "ACCESSO" }, "geometry": { "type": "Point", "coordinates": [ 12.49983051677985, 41.898136598832586 ] } },
-{ "type": "Feature", "properties": { "tipo": "ACCESSO" }, "geometry": { "type": "Point", "coordinates": [ 12.500592640263056, 41.896622351500362 ] } }
+{ "type": "Feature", "properties": { "tipo": "ACCESSO" }, "geometry": { "type": "Point", "coordinates": [ 12.500592640263056, 41.896622351500362 ] } },
+{ "type": "Feature", "properties": { "tipo": "MAXISCHERMO" }, "geometry": { "type": "Point", "coordinates": [ 12.498024375863897, 41.898239828902717 ] } },
+{ "type": "Feature", "properties": { "tipo": "MAXISCHERMO" }, "geometry": { "type": "Point", "coordinates": [ 12.49765669407607, 41.898025785416081 ] } },
+{ "type": "Feature", "properties": { "tipo": "MAXISCHERMO" }, "geometry": { "type": "Point", "coordinates": [ 12.470047598509591, 41.904884245222128 ] } }
 ]
 }

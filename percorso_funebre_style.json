@@ -1,0 +1,36 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "*",
+      "properties": [
+        {
+          "property": "color",
+          "values": [
+            {
+              "key": "*",
+              "value": "#8e14d0"
+            }
+          ]
+        },
+                {
+          "property": "weight",
+          "values": [
+            {
+              "key": "*",
+              "value": "4"
+            }
+          ]
+        },
+        {
+          "property": "opacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        }
+          ]
+        }
+      ]
+    }

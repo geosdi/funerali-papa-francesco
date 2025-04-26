@@ -67,6 +67,8 @@
 { "type": "Feature", "properties": { "tipo": "MAXISCHERMO" }, "geometry": { "type": "Point", "coordinates": [ 12.470047598509591, 41.904884245222128 ] } },
 { "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.468731487176477, 41.905197039639916 ] } },
 { "type": "Feature", "properties": { "tipo": "BAGNI" }, "geometry": { "type": "Point", "coordinates": [ 12.468934156653008, 41.904826916365337 ] } },
-{ "type": "Feature", "properties": { "tipo": "MAXISCHERMO" }, "geometry": { "type": "Point", "coordinates": [ 12.458461180370321, 41.902593720773879 ] } }
+{ "type": "Feature", "properties": { "tipo": "MAXISCHERMO" }, "geometry": { "type": "Point", "coordinates": [ 12.458461180370321, 41.902593720773879 ] } },
+{ "type": "Feature", "properties": { "tipo": "PMA" }, "geometry": { "type": "Point", "coordinates": [ 12.498555172108558, 41.896997957041847 ] } },
+{ "type": "Feature", "properties": { "tipo": "PMA" }, "geometry": { "type": "Point", "coordinates": [ 12.470502411524265, 41.905468355229438 ] } }
 ]
 }

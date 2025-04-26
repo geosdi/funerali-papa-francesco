@@ -22,7 +22,13 @@
       "key": 3,
       "label": "Zona 2",
        "visible": false
+    },
+    {
+      "key": 4,
+      "label": "S.Pietro-S.Maria Maggiore",
+       "visible": true
     }
+
     
   ],
   "today": {
@@ -30,7 +36,8 @@
       "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/gate.geojson",
       "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/servizi.geojson",
       "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/zona_calda_sanpietro.geojson",
-      "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/zona_fredda_cinturazione.geojson"
+      "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/zona_fredda_cinturazione.geojson",
+      "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/percorso_funebre.geojson"
     ]
   },
   "extra_layers": [
@@ -47,7 +54,8 @@
     "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/gate_style.json",
     "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/servizi_style.json",
     "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/zona_calda_style.json",
-    "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/zona_fredda_style.json"
+    "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/zona_fredda_style.json",
+    "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/percorso_funebre_style.json"
   ],
   "leaflet": {
     "tooltip": [
